@@ -1,19 +1,19 @@
 var langLib = {
     "en": {
-        "title": "Google Forms Auto Filler",
+        "title": "Swift Apply Assistent",
         "label": "Label",
         "value": "Value",
         "saved": "Saved",
         "add": "Add",
         "save": "Save"
     },
-    "tr": {
-        "title": "Google Forms Doldurucu",
-        "label": "Başlık",
-        "value": "Cevap",
+    "ಕನ್ನಡ": {
+        "title": "ಸ್ವಿಫ್ಟ್ ಅಪ್ಲೈ ಅಸಿಸ್ಟೆಂಟ್",
+        "label": "ಶೀರ್ಷಿಕೆ",
+        "value": "ವಿವರಣೆ",
         "saved": "Kaydedildi",
-        "add": "Ekle",
-        "save": "Kaydet"
+        "add": "ಸೇರಿಸು",
+        "save": "ಉಳಿಸು"
     }
 }
 
