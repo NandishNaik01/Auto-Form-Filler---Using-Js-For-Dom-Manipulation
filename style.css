@@ -1,6 +1,6 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
-  color: #202124;
+  color: #000000;
 }
 
 thead > tr,
@@ -25,37 +25,23 @@ ul > li {
 #title {
   font-size: 1.5em;
   font-weight: bold;
+  align-self: center;
 }
 
 #selectLang {
   float: right;
+  /* border: 4px solid black;
+  margin: 5px;
+  padding: 5px;
+} */
 }
-
-/* .prompt-input {
-  width: 100%;
-  height: 20vh;
-  vertical-align: top;
-} */
-/* .prompt-input {
-  width: 400px;
-  height: 20vh;
-  padding: 10px 15px; 
-  line-height: 1; 
-  vertical-align: top;
-} */
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(223, 207, 207);
 }
-.container-Resume {
-  max-width: 800px;
-  margin: 50px auto;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+
 h2 {
   text-align: center;
   margin-bottom: 20px;
@@ -65,6 +51,10 @@ h2 {
 }
 .form-group label {
   font-weight: bold;
+  /* border: 8px solid black; */
+}
+tbody {
+  border: 4px solid black;
 }
 .form-group input[type="file"] {
   display: block;
@@ -72,4 +62,68 @@ h2 {
 }
 #parsed-info {
   margin-top: 20px;
+}
+.footer {
+  align-self: center;
+  /* font-size: 600px; */
+  margin-left: 25%;
+}
+
+.footer a {
+  font-weight: bold; /* Set the font weight */
+  color: #2351d9; /* Set the link color */
+  text-decoration: none; /* Remove underline */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+#addNewEntryButton {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 2%;
+}
+#saveDataButton {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 2%;
+}
+.language {
+  /* background-color: #2351d9; */
+  padding: 5px;
+  color: rgb(0, 0, 0);
+  border-radius: 2%;
+}
+.language {
+  padding: 5px 10px; /* Add padding for better appearance */
+  border: 2px solid #2351d9; /* Add border */
+  background-color: transparent; /* Set background color to transparent */
+  color: #071757; /* Set text color */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 300; /* Add transition effect */
+}
+
+.language:hover {
+  background-color: #2351d9; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
+}
+
+.language.active {
+  background-color: #2351d9; /* Set background color for active button */
+  color: #fff; /* Set text color for active button */
+}
+.modifiers:hover {
+  background-color: #2351d9; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
 }

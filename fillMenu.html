@@ -11,8 +11,8 @@
       <li id="title" data-lang="title"></li>
       <li id="selectLang">
         <!-- TODO: move it to options page -->
-        <input type="button" value="en" />
-        <!-- <input type="button" value="tr"> -->
+        <input type="button" value="en" class="language" />
+        <input type="button" value="kn" class="language" />
       </li>
     </ul>
     <div id="savedText" data-lang="saved"></div>
@@ -30,17 +30,22 @@
             <button
               type="button"
               id="addNewEntryButton"
-              data-lang="add"></button>
+              data-lang="add"
+              class="modifiers"></button>
           </td>
           <td>
-            <button type="button" id="saveDataButton" data-lang="save"></button>
+            <button
+              type="button"
+              id="saveDataButton"
+              data-lang="save"
+              class="modifiers"></button>
           </td>
         </tr>
       </tfoot>
     </table>
 
-    <p style="font-weight: 600">
-      Not Google Forms..?
+    <p class="footer" style="font-weight: 600">
+      Not A Google Form..?
       <a href="https://githubdatapush.netlify.app/" target="_blank">
         Click Here
       </a>
@@ -48,5 +53,21 @@
 
     <script src="language.js"></script>
     <script src="fillMenu.js"></script>
+    <script>
+      // Get all language buttons
+      var languageButtons = document.querySelectorAll(".language");
+
+      // Add click event listeners to each button
+      languageButtons.forEach(function (button) {
+        button.addEventListener("click", function () {
+          // Remove active class from all buttons
+          languageButtons.forEach(function (btn) {
+            btn.classList.remove("active");
+          });
+          // Add active class to the clicked button
+          this.classList.add("active");
+        });
+      });
+    </script>
   </body>
 </html>

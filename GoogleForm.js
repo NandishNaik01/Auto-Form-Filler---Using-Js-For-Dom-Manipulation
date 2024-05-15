@@ -94,4 +94,4 @@ function executeEvery5Seconds() {
 }
 
 // Call the executeEvery5Seconds function every 5 seconds
-setInterval(executeEvery5Seconds, 5000);
+setTimeout(executeEvery5Seconds, 5000);
