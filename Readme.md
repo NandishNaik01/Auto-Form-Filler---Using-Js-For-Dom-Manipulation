@@ -3,9 +3,12 @@
 ![Project Logo](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/f6b996bc-9147-4267-8b6c-cc427c31f919)
 
 ## Some Photos Of Project
+
+### Popup Window
 ![Chrome Extension Popup](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/47b2f1ea-c112-4e44-8cd5-cc5cc05eea3d)
 
-
+### Filled Form
+![Filled form](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/43090ba7-5f1d-474a-a280-c797f23e8c11)
 
 
 ![Project Documentation](https://github.com/user-attachments/files/15521121/Final.Year.Project.Report.docx)
