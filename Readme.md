@@ -3,6 +3,9 @@
 ![Project Logo](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/7cdd9bd3-517c-43eb-8d26-9e7d979f15ff)
 
 ## Some Photos Of Project
+![Chrome Extension Popup](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/47b2f1ea-c112-4e44-8cd5-cc5cc05eea3d)
+
+
 
 ![Project Documentation](https://github.com/user-attachments/files/15521121/Final.Year.Project.Report.docx)
 
