@@ -1,10 +1,22 @@
 # Swift Apply Assistant
+![Project Logo](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/7cdd9bd3-517c-43eb-8d26-9e7d979f15ff)
 
 ![Project Logo](https://drive.google.com/drive/folders/1DvB1AkdM7u_J_eunRqqJqjbFbbc9dCnA?usp=sharing)
 
 ## Some Photos Of Project
 
+<<<<<<< HEAD
 ![Popup Page](popup.png)
+=======
+
+
+
+
+
+
+![Project Documentation](https://github.com/user-attachments/files/15521121/Final.Year.Project.Report.docx)
+
+>>>>>>> 1c33e10b8f2c4952a0099dcbd914ef1c1884ef57
 
 ## Table of Contents
 
