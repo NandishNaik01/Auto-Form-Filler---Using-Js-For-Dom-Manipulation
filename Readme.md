@@ -1,9 +1,10 @@
 # Swift Apply Assistant
 
-![Project Logo](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/7cdd9bd3-517c-43eb-8d26-9e7d979f15ff)
+![Project Logo](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/f6b996bc-9147-4267-8b6c-cc427c31f919)
 
 ## Some Photos Of Project
 ![Chrome Extension Popup](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/47b2f1ea-c112-4e44-8cd5-cc5cc05eea3d)
+
 
 
 
