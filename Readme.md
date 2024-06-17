@@ -17,12 +17,14 @@
 ![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/4adb8ed4-917c-4cca-b655-423d780e6b3f)
 
 ![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/5096c748-34f5-4651-a433-8f05b18f977e)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/0c25307b-55f2-4fcb-823c-ddf4b4fb0bab)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/d93222f8-c315-4db6-b44e-e1283fc1dfb0)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/45a0d5aa-5707-4141-98f6-c7553af137e3)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/0005e646-7941-4eba-96eb-de1bafa863c4)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/603f13da-afb0-429b-bb29-0fe500dc64c5)
-![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/5b8cab47-2f7c-452e-b3eb-bee2439fe7c4)
+
+### Add Key Value Pairs
+
+![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/ed235c8f-344a-45a1-ac09-71786169c50a)
+
+### Add Key value pairs by CSV File
+
+![image](https://github.com/NandishNaik01/Auto-Form-Filler---Using-Js-For-Dom-Manipulation/assets/147323163/28215374-ffa5-4e82-b40f-ad4a4e5f6e3d)
 
 ![Project Documentation](https://github.com/user-attachments/files/15521121/Final.Year.Project.Report.docx)
 
